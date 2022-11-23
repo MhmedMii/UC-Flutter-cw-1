@@ -10,3 +10,15 @@ void main() {
     print("He is Normal");
   else if (BMI > 24.9) print("He is overweight");
 }
+
+// void main() 
+// {
+//  double TempF = 80.0;
+//  double TempC;
+//  double Final;
+//  Final = ((TempF-32)/1.8);
+ 
+//   print(Final.toStringAsFixed(1));
+  
+  
+// }
